@@ -1,5 +1,4 @@
-# ksa
-Kuwait Shopping Api
+# KSA (Kuwait Shopping Api)
 
 I created this api to make a kuwait based search aggregator, but then I got more interested in a search aggregator without apis (https://github.com/shikhar-kr/ixigrab) !!
 
