@@ -15,58 +15,59 @@ Go to your installation directory
 #Usage
 
 `$ node app.js`
+
 Running app on port 8000
 
 ##Search 
-search keyword iphone
+Search keyword **iphone**
 
-blink.com.kw
+######blink.com.kw
 http://localhost:8000/blink/products/?q=iphone
 
-kuwait.souq.com
+######kuwait.souq.com
 http://localhost:8000/ksouq/products/?q=iphone
 
-mrbabu.com
+######mrbabu.com
 http://localhost:8000/mrbabu/products/?q=iphone
 
-ubuy.com.kw
+######ubuy.com.kw
 http://localhost:8000/ubuy/products/?q=iphone
 
-xcite.com
+######xcite.com
 http://localhost:8000/xcite/products/?q=iphone
 
-taw9eel.com
+######taw9eel.com
 http://localhost:8000/taw9eel/products/?q=iphone
 
-cavaraty.com
+######cavaraty.com
 http://localhost:8000/cavaraty/products/?q=iphone
 
-gamesq8.com
+######gamesq8.com
 http://localhost:8000/gamesq8/products/?q=iphone
 
-beidounonline.com
+######beidounonline.com
 http://localhost:8000/beidounonline/products/?q=iphone
 
-deals.com.kw
+######deals.com.kw
 http://localhost:8000/dealskw/products/?q=iphone
 
-best.com.kw
+######best.com.kw
 http://localhost:8000/bestkw/products/?q=iphone
 
 ##Deals
 
-blink.com.kw
+######blink.com.kw
 http://localhost:8000/blink/deals
 
-kuwait.souq.com
+######kuwait.souq.com
 http://localhost:8000/ksouq/deals
 
-xcite.com
+######xcite.com
 http://localhost:8000/xcite/deals
 
-deals.com.kw
+######deals.com.kw
 http://localhost:8000/dealskw/deals
 
-sheeel.com
+######sheeel.com
 http://localhost:8000/sheeel/deals
 
