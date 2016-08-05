@@ -8,16 +8,16 @@ This api works, is functional and should serve as a good example for apis & scra
 
 Go to your installation directory
 
-$ git clone https://github.com/shikhar-kr/ksa.git .
+`$ git clone https://github.com/shikhar-kr/ksa.git .`
 
-$ npm install
+`$ npm install`
 
 #Usage
 
-$ node app.js
+`$ node app.js`
 Running app on port 8000
 
-Search 
+##Search 
 search keyword iphone
 
 blink.com.kw
@@ -53,7 +53,7 @@ http://localhost:8000/dealskw/products/?q=iphone
 best.com.kw
 http://localhost:8000/bestkw/products/?q=iphone
 
-Deals
+##Deals
 
 blink.com.kw
 http://localhost:8000/blink/deals
