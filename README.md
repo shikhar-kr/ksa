@@ -71,3 +71,6 @@ http://localhost:8000/dealskw/deals
 ######sheeel.com
 http://localhost:8000/sheeel/deals
 
+#Screencast
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/F5ah6f5spho" frameborder="0" allowfullscreen></iframe>
